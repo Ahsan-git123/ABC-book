@@ -1,0 +1,180 @@
+.abcbook{
+    background-color: rgb(219, 255, 14)    
+}
+.A{
+    background-color: rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.B{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.C{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.D{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.E{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.F{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.G{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.H{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.I{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.J{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.K{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.L{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.M{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.N{
+    background-color:rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.O{
+    background-color: rgb(49, 7, 236);;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.P{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Q{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.R{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.S{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.T{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.U{
+    background-color: rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.V{
+    background-color: rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.W{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.X{
+    background-color: rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Y{
+    background-color:rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Z{
+    background-color: rgb(49, 7, 236);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+.abcbook {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.abcbook a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #ff6600;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+.abcbook a:hover {
+    color: #ff3300;
+}
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-shadow: 1px 1px 2px #000000;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+.alphabet-section {
+    margin: 40px 0;
+}
+.go-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff6600;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s;
+}
+.go-to-top:hover {
+    background-color: #ff3300;
+}
